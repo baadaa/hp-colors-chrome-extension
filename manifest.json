@@ -1,0 +1,22 @@
+{
+  "name": "Homepoint Colors",
+  "description": "Homepoint marketing and product colors",
+  "version": "0.1.0",
+  "manifest_version": 3,
+  "icons": {
+    "16": "/images/hp-colors-16.png",
+    "32": "/images/hp-colors-32.png",
+    "48": "/images/hp-colors-48.png",
+    "128": "/images/hp-colors-128.png"
+  },
+  "homepage_url": "https://bald.design",
+  "action": {
+    "default_popup": "hp-colors.html",
+    "default_icon": {
+      "16": "/images/hp-colors-16.png",
+      "32": "/images/hp-colors-32.png",
+      "48": "/images/hp-colors-48.png",
+      "128": "/images/hp-colors-128.png"
+    }
+  }
+}
